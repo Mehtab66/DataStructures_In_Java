@@ -6,6 +6,7 @@ public class ReverseNumber {
         Scanner scanner=new Scanner(System.in);
         int number=scanner.nextInt();
         String result="";
+    
 if(number%10==number){
     System.out.println(number);
     return;
@@ -15,6 +16,6 @@ while (number!=0) {
     result=result+lastDigit;
     number=number/10;
 }
-System.out.println("the result is "+result);
+
     }
 }
