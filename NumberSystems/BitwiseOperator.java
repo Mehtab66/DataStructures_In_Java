@@ -1,4 +1,4 @@
-
+    
 //Bitwise operators are extremly fast and efficient than decimal operators
 //Bitwise operators are used to perform bit-level operations on integers
 //Bitwise operatoes: XOR, AND, OR, NOT, LEFT SHIFT, RIGHT SHIFT
